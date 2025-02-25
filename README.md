@@ -1,8 +1,11 @@
-Understanding Steganography
-Overview
+#Understanding Steganography
+
+#Overview
+
 This repository contains a comprehensive exploration of steganography, the art of hiding information within other non-secret data. It includes various techniques, tools, and applications of steganography, aimed at enhancing secure communication in the digital age.
 
 Table of Contents
+
 Introduction
 Problem Statement
 Technology Used
